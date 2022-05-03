@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Meiyo40
 - 👀 I’m interested in everything!
-- 🌱 I’m currently learning JavaEE/Spring and Php/Symfony
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaEE/Springboot, Rust, UnrealEngine 5 (BP and C++)
 - 📫 How to reach me meiyo40@gmail.com
 
 <!---
