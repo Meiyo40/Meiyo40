@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meiyo40
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning JavaEE/Springboot, Rust, UnrealEngine 5 (BP and C++)
+- 👀 I’m interested in everything! (But Rust > All)
+- 🌱 I’m currently learning UnrealEngine 5 (BP and C++)
 - 📫 How to reach me meiyo40@gmail.com
 
 <!---
